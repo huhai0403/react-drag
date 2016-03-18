@@ -1,0 +1,31 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6,input, textarea, p, blockquote, th, td{margin:0;padding:0;*zoom:1;font-family:"Î¢ÈíÑÅºÚ";}
+a{ text-decoration:none;}
+ul{ list-style:none;}
+img{ border:none;}
+.clear:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+.clear{*zoom:1;}
+.dn{ display: none;}
+
+#main{ width: 1000px; margin: auto;}
+#top{ text-align: center; padding: 10px; }
+#top button{ margin: 10px;}
+#box{ overflow: hidden;}
+/*modules*/
+#module01{}
+#left{ width: 238px; float: left; margin-right: 10px; margin-bottom: -9999px; padding-bottom: 9999px;}
+#middle01{ width: 498px; float: left; margin-bottom: -9999px; padding-bottom: 9999px;}
+#right{ width: 238px;  float: right; margin-left: 10px; margin-bottom: -9999px; padding-bottom: 9999px;}
+
+#module02{}
+.mr_10{ margin-right: 10px;}
+.block{ width: 493px;  float: left; margin-bottom: -9999px; padding-bottom: 9999px;}
+#module03{}
+#oth_rigth{ margin-left: 248px; width: auto; margin-bottom: -9999px; padding-bottom: 9999px;}
+#module04{}
+#oth_left{ margin-right:248px; width: auto; margin-bottom: -9999px; padding-bottom: 9999px; }
+/*components*/
+.comp{ display: block; padding: 5px; margin-bottom: 10px; background: #eaedee; border-radius: 5px; color: #111; font-size: 14px; line-height: 24px;}
+.comp strong{  color: #222; font-family: Consolas; line-height: 30px; font-size: 16px;  display: block; text-align: center; background: #bec9ce;}
+.comp p{ font-weight: bold;}
+.input{ overflow: hidden; text-align: center;}
+.input input{ display:inline-block; height: 20px; font-size: 16px; line-height: 20px; padding: 2px 5px; width: 100%;}
